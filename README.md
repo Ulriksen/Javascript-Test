@@ -5,5 +5,5 @@ Implementer Fox, Dog, Horse og AnimalFactory slik at Jasmin testene i Spec folde
 Forestill deg at koden du skriver er en del av en stor Javascript applikasjon. Skriv koden slik du ville gjort om den skulle være "produksjonsklar". 
 Når alt er på plass skal SpecRunner.html se slik ut:
 <div> 
-    <img src="" >
+    <img src="https://raw.github.com/novanet/Javascript-Test/master/Jasmin-tests.PNG" >
 </div> 
